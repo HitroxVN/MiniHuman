@@ -1,0 +1,10 @@
+name: MiniHuman
+api: [3.0.0]
+main: Laith98Dev\MiniHuman\Main
+version: 1.0.0
+author: Laith98Dev
+editor: HitroxVN
+commands:
+   mh:
+     description: Tạo người tí hon đi theo bạn!
+     permission: minihuman.command
